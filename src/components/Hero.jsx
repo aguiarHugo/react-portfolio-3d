@@ -14,7 +14,7 @@ const Hero = () => {
         </div>
 
         <div>
-          <h1 className={`${styles.heroHeadText} text-white`} >Oi, meu nome é <span className='text-purple'>Hugo!</span></h1>
+          <h1 className={`${styles.heroHeadText} text-white`} >Hugo <span className='text-purple'>Aguiar</span></h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             Desenvolvedor Front-end
           </p>
@@ -23,7 +23,7 @@ const Hero = () => {
 
       <ComputersCanvas />
 
-      <div className='abosulte xs:bottom-10 bottom-32 w-full flex justify-center items-center'>
+      <div className='absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center'>
         <a href="#about">
           <div className='w-[35px] h-[64px] rounded-3xl border-4 
           border-secondary flex justify-center items-start p-2'>
