@@ -42,9 +42,12 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className=',t-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta quos 
-        totam velit iure itaque repellendus reprehenderit doloremque deleniti 
-        quidem culpa cumque explicabo esse, repellat, qui magnam facere architecto odit? Asperiores!
+        A tecnologia sempre foi algo que se fez presente nos 
+        meus maiores interesses, esses, que foram interrompidos por necessidade
+        do serviço militar, mas quando houve a oportunidade de voltar a 
+        realizar um dos meus maiores sonhos, que sempre foi atuar na área da 
+        tecnologia, não pensei duas vezes em investir em mim mesmo e buscar 
+        meu lugar nessa maravilhosa área.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

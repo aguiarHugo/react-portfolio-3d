@@ -74,10 +74,8 @@ const Works = () => {
           variants={fadeIn('', '', 0.1, 1)}
           className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
         >
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
-          Repudiandae quia sed ea eaque voluptatum voluptates recusandae 
-          accusamus, maiores dignissimos culpa soluta 
-          molestiae debitis natus fuga iure in doloremque eligendi esse.
+          Projetos sempre responsivos e com boas práticas em acessibilidade, 
+          utilizando as maior modernas e performáticas tecnologias do mercado
         </motion.p>
       </div>
 
